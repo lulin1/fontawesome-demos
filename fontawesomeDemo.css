@@ -1,0 +1,224 @@
+@import url(http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
+
+body {
+	background-color: #8fbc8f;
+	color: #696969
+}
+h1 {
+	text-align: center;
+}
+div {
+	margin: 0 auto;
+	width: 800px;
+	text-align: center;
+	margin-top: 20px;
+}
+a {
+	text-decoration: none;
+	color: #5f9ea0;
+	font-weight: bold;
+}
+a:hover {
+	font-size: 60px;
+	color: #4169e1;
+}
+.icon1:before {
+    content: '\f001';
+    font-family: FontAwesome;
+}
+.icon2:before {
+	margin-left: 30px;
+    content: '\f002';
+    font-family: FontAwesome;
+}
+.icon3:before {
+	margin-left: 60px;
+    content: '\f003';
+    font-family: FontAwesome;
+}
+.icon4:before {
+	margin-left: 90px;
+    content: '\f004';
+    font-family: FontAwesome;
+}
+.icon5:before {
+	margin-left: 120px;
+    content: '\f005';
+    font-family: FontAwesome;
+}
+.icon6:before {
+	margin-left: 150px;
+    content: '\f006';
+    font-family: FontAwesome;
+}
+.icon7:before {
+	margin-left: 180px;
+    content: '\f007';
+    font-family: FontAwesome;
+}
+.icon8:before {
+	margin-left: 210px;
+    content: '\f008';
+    font-family: FontAwesome;
+}
+.icon9:before {
+	margin-left: 240px;
+    content: '\f009';
+    font-family: FontAwesome;
+}
+.icon10:before {
+	margin-left: 270px;
+    content: '\f010';
+    font-family: FontAwesome;
+}
+.icon11:before {
+	margin-left: 240px;
+    content: '\f011';
+    font-family: FontAwesome;
+}
+.icon12:before {
+	margin-left: 210px;
+    content: '\f012';
+    font-family: FontAwesome;
+}
+.icon13:before {
+	margin-left: 180px;
+    content: '\f013';
+    font-family: FontAwesome;
+}
+.icon14:before {
+	margin-left: 150px;
+    content: '\f014';
+    font-family: FontAwesome;
+}
+.icon15:before {
+	margin-left: 120px;
+    content: '\f015';
+    font-family: FontAwesome;
+}
+.icon16:before {
+	margin-left: 90px;
+    content: '\f016';
+    font-family: FontAwesome;
+}
+.icon17:before {
+	margin-left: 60px;
+    content: '\f017';
+    font-family: FontAwesome;
+}
+.icon18:before {
+	margin-left: 30px;
+    content: '\f018';
+    font-family: FontAwesome;
+}
+.icon19:before {
+	margin-left: 30px;
+    content: '\f019';
+    font-family: FontAwesome;
+}
+.icon20:before {
+	margin-left: -60px;
+    content: '\f021';
+    font-family: FontAwesome;
+}
+
+.icon1:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon2:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon3:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon4:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon5:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon6:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon7:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon8:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon9:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon10:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon11:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon12:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon13:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon14:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon15:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon16:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon17:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon18:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon19:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
+.icon20:hover {
+	font-size: 30px;
+	font-weight: bold;
+    color: #008000
+}
