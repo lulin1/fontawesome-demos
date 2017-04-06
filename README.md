@@ -4,7 +4,7 @@
 
 [![HitCount](https://hitt.herokuapp.com/lulinliao/fontawesome-demos.svg)](https://github.com/lulinliao/fontawesome-demos)
 
-## Contributing [![contributions welcome]
+Contributing [![contributions welcome]
 (https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
 (https://github.com/dwyl/esta/issues)
 
